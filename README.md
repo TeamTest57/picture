@@ -20,3 +20,7 @@
 ## 天橋立
 
 ![ama](https://github.com/Kasugaccho/picture/blob/master/picture/%E5%A4%A9%E6%A9%8B%E7%AB%8B.jpg)
+
+## 早朝の海富士
+
+![fuji](https://github.com/Kasugaccho/picture/blob/master/picture/%E6%97%A9%E6%9C%9D%E3%81%AE%E6%B5%B7%E5%AF%8C%E5%A3%AB.jpg)
