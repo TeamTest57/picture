@@ -1,6 +1,6 @@
 # 風景写真集
 
-# 1 × 1
+# アスペクト比 1 : 1
 
 ## 木漏れ日が降り注ぐ鳥居
 
@@ -27,7 +27,7 @@
 
 ![fuji](https://github.com/Kasugaccho/picture/blob/master/picture/%E6%97%A9%E6%9C%9D%E3%81%AE%E6%B5%B7%E5%AF%8C%E5%A3%AB.jpg)
 
-# 16 × 9
+# アスペクト比 16 : 9
 
 ## 惑星都市
 
