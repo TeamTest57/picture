@@ -11,3 +11,7 @@
 ## 玄武岩
 
 ![genbu](https://github.com/Kasugaccho/picture/blob/master/picture/%E7%8E%84%E6%AD%A6%E5%B2%A9.jpg)
+
+## 大空の橋
+
+![hashi](https://github.com/Kasugaccho/picture/blob/master/picture/%E5%A4%A7%E7%A9%BA%E3%81%AE%E6%A9%8B.jpg)
