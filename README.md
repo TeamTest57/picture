@@ -15,3 +15,8 @@
 ## 大空の橋
 
 ![hashi](https://github.com/Kasugaccho/picture/blob/master/picture/%E5%A4%A7%E7%A9%BA%E3%81%AE%E6%A9%8B.jpg)
+
+
+## 天橋立
+
+![ama](https://github.com/Kasugaccho/picture/blob/master/picture/%E5%A4%A9%E6%A9%8B%E7%AB%8B.jpg)
